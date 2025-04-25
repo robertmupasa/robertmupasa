@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <center>
+  <section class="main-section">
+    <header>
+      <h1 class="BSC">GamersUnite 2025: Campus championship</h1>
+      <h3 class="HIC">15-17 March 2025</h3>
+      <h4 class="IT">"Battle for Ultimate Gaming Glory"</h4>
+    </header>
+  </section>
+  </center>
+
+  <section class="container">
+    <h3 class="BSC">Tournament Games& Prize Pools</h3>
+    <div class="DIT">
+    <ol>
+      <li>Fortnite</li>
+      <ul>
+        <li>Solo Division - R2000 Prize Pool</li>
+        <li>Squad Division - R5000 Prize Pool</li>
+      </ul>
+      <li>FIFA 24</li>
+      <ul>
+        <li>1v1 Knockout Tournament</li>
+        <li>Prize Pool: R3000</li>
+      </ul>
+      <li>Call of Duty: Warzone</li>
+      <ul> 
+        <li>Squad Battles(4-player teams)</li>
+        <li>Prize Pool: R4000</li>
+      </ul>
+      <li>Mortal Kombat 12</li>
+      <ul>
+        <li>Double Elimination Bracket</li>
+        <li>Prize Pool: R2500</li> 
+      </ul>
+    </ol>
+    </div>
+  </section>
+
+  <section class="BMM">
+    <h3>Tournament Details</h3>
+    <h4>Regigistration Requirements</h1>
+        <ul>
+            <li>valid Student ID</li>
+            <li>Gaming Handle/Usemame</li>
+            <li>Discord Username</li>
+
+        <h4>Equipment</h4>
+
+        <li>Provided</li>
+             <ul>
+                <li>Gaming PCs(RTX 4060,32GB RAM)</li>
+                <li>Ps5 Consoles</li>
+                <li>Gaming Monitors</li>
+        <li>Bring Your Own:</li>
+            <ul>
+                <li>Headphones</li>
+                <li>Controllers(if preferred)</li>
+
+        <h4>Schedule</h4>
+             <ul>
+                <li>Day 1:Qualifiers(All Games)</li>
+                <li>Day 2:Semi-Finals</li>
+                <li>day 3 finals & Prize Ceremony</li>
+
+        <h4>Grand Prize<h4>
+          <h4 class="robert">
+            <img src="https://cdn-icons-png.freepik.com/512/11786/11786444.png" href="">
+            PlayStatioin 5+ R10,000 Cash Prize for Overall Champion!
+            <img src="https://cdn-icons-png.freepik.com/512/11786/11786444.png" href="">
+          </h4>
+  </section>
+</body>
+</html>
+
+
+              CSS Part
+
+
+body{
+background-color: rgb(14, 11, 11);
+
+}
+.BSC{
+    color: brown;
+
+}
+.HIC{
+    color: rgb(4, 73, 105);
+}
+.IT{
+    color: aliceblue;
+}
+.DIT{
+    color: rgb(11, 82, 104);
+}
+.BMM{
+    color: aliceblue;
+    border: 1px solid #131212;
+    border-radius: 3cap;
+    margin: 10px;
+    padding: 1cap;
+    background-color: #131212;
+
+}
+.robert{
+    color: rgba(190, 190, 37, 0.425);
+}
+
+.container{
+    background-color: #131212;
+    border: 1px solid #131212;
+    border-radius: 3cap;
+    margin: 10px;
+    padding: 1cap;
+
+}
+img{
+    width: 20px;
+}
+
+.main-section{
+    border-radius: 3cap;
+    border: 2px solid #131212;
+    background-color: #131212;
+    padding: 1cap;
+}
